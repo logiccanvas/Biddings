@@ -1,0 +1,1 @@
+export const FIELDS = 'id, quantity, price, shipping_cost, price_single, factory_id, order_id, bid_start_at, bid_close_at, current_time, bid_details, is_bid_closed, sku{ id, name, preview_photo }, brand{ name, id }, location{ name, full_address }, bid_closed_by';
